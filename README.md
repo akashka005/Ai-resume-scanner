@@ -51,6 +51,3 @@ Whether you're aiming for a DevOps role, a Full-Stack position, or an AI Enginee
 - **Want to understand the architecture?** Read the [Documentation](./DOCS.md).
 
 ---
-<div align="center">
-  <i>Built with ❤️ for developers and job seekers.</i>
-</div>
