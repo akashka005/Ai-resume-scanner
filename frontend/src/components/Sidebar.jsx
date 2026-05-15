@@ -17,7 +17,7 @@ export default function Sidebar({ activeTab, onTabChange, onClose }) {
       <div className="px-8 pb-10 flex justify-between items-start relative z-10">
         <div>
           <h1 className="text-zinc-900 font-bold text-xl tracking-tighter flex items-center gap-2">
-            <div className="w-2 h-2 rounded-full bg-zinc-900" /> VITARIS
+            <div className="" /> VITARIS
           </h1>
           <p className="text-[10px] text-zinc-400 font-bold uppercase tracking-[0.2em] mt-1 ml-4">Intelligence</p>
         </div>
